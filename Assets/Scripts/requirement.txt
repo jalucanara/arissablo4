@@ -1,0 +1,47 @@
+What to build:
+1. Avatar Creation: Set up an avatar in the scene.
+2. Top-Down View: Ensure the game camera can either follow the avatar from a top-down perspective or pan across like an ARPG. Prioritize usability and consider the player’s perspective. 
+3. Character Movement: The avatar should move around via mouse clicks on the ground, similar to character control in MOBA (Dota, LoL) or ARPG (Diablo 4, Path of Exile) games. Both left and right clicks are acceptable.
+4. Animation: The avatar should play a run animation when moving and stop animation while standing still.
+5. Environment: Implement a simple environment with obstacles. The avatar should not be able to pass through these obstacles. (Bonus points for handling camera occlusion through obstacles). (P.S. don’t worry about the defects in the assets, the terrain does not tile perfectly, you would not be mark down)
+
+Assessment Criteria:
+Your project will be evaluated based on the following (in the order of importance):
+
+1. Functionality: All requested features should be functional and free of errors. The project needs to compile and the executable needs to run.
+2. Code Quality: The code should be clear and maintainable. We value sensibility and empathy in your approach to code and project structure. 
+3. Creativity: We are particularly interested in your solution for the movement logic. Aim for simplicity and elegance. 
+4. Performance: Given this is a demo, if it runs without causing an infinite loop, it meets our requirements.
+
+Submission:
+Please commit your project to a public repository (github/gitlab preferred) and publish your compiled executable as a release. I should be able to “git clone <repourl>”. Include a README file detailing the compilation of the project and the running of the compiled executable. Send me the link to your repository in an email, say who you are and show me proof that you own the repository either through what is written in the readme or some other method. Remember, empathy matters.
+
+Deadline:
+Please complete and submit your project by the end of Monday, 2359 19th June 2023, one week from receiving this document. If you have any questions or need clarification, don't hesitate to reach out.
+
+Note: This project aims to assess your current abilities and skills with Unity and is not expected to be a polished, full-featured game. Concentrate on demonstrating your understanding of Unity and C# rather than the scope of the project. The effort I am expecting is not more than a day so do not go too crazy and ship a Diablo 5.
+We eagerly anticipate seeing your creation! Good luck!
+
+
+建造什么：
+(done) 1. 头像创建：在场景中设置头像。
+(done) 2. 自上而下的视图：确保游戏镜头可以从自上而下的视角跟随头像，或者像 ARPG 一样平移。 优先考虑可用性并考虑玩家的观点。
+(done) 3.角色移动：虚拟形象应该通过鼠标在地面上点击来移动，类似于MOBA（Dota，LoL）或ARPG（暗黑破坏神4，流放之路）游戏中的角色控制。 左键和右键单击都是可以接受的。
+(done) 4. 动画：角色移动时播放奔跑动画，静止时播放停止动画。
+5. 环境：实现一个带有障碍物的简单环境。 化身不应该能够通过这些障碍。 （通过障碍物处理相机遮挡的奖励积分）。 （P.S. 不用担心资产的缺陷，地形没有完美平铺，你不会被降价）
+
+评估标准：
+您的项目将根据以下内容（按重要性顺序）进行评估：
+
+1. 功能：所有请求的功能都应该是功能性的并且没有错误。 项目需要编译，可执行文件需要运行。
+2.代码质量：代码应该清晰可维护。 我们重视您处理代码和项目结构的方法中的敏感性和同理心。
+3. 创意：我们对您的运动逻辑解决方案特别感兴趣。 以简洁和优雅为目标。
+4. 性能：作为一个demo，如果运行起来没有死循环，就满足我们的要求。
+
+提交：
+请将您的项目提交到公共存储库（首选 github/gitlab），并将编译后的可执行文件作为发行版发布。 我应该能够“git clone <repourl>”。 包括一个 README 文件，详细说明项目的编译和编译后的可执行文件的运行。 通过电子邮件将您的存储库链接发送给我，说出您的身份，并通过自述文件中的内容或其他方法向我展示您拥有该存储库的证据。 请记住，同理心很重要。
+
+最后期限：
+请在 2023 年 6 月 19 日星期一 2359 结束前完成并提交您的项目，即收到本文件后一周。 如果您有任何疑问或需要澄清，请随时与我们联系。
+
+注意：此项目旨在评估您当前使用 Unity 的能力和技能，预计不会成为一款精美的全功能游戏。 专注于展示您对 Unity 和 C# 的理解，而不是项目的范围。 我预计的工作不会超过一天，所以不要太疯狂并发布暗黑破坏神 5。
